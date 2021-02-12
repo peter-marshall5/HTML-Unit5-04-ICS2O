@@ -4,7 +4,7 @@ const input = document.getElementById('text')
 const button = document.getElementById('submit')
 
 // Take value out of text box and alert it
-function onclick() {
+function onclick () {
   // Show alert message
   alert(input.value)
   // Clear value of input

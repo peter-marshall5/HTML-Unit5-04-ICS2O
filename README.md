@@ -1,3 +1,3 @@
 # Unit 5-04
 
-[![linter](https://github.com/peter-marshall5/ICS2O-Unit5-04-HTML/workflows/linter/badge.svg)](https://github.com/marketplace/actions/super-linter)
+[![linter](https://github.com/peter-marshall5/Unit5-04-HTML-ICS2O/workflows/linter/badge.svg)](https://github.com/marketplace/actions/super-linter)
